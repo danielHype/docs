@@ -873,3 +873,7 @@ footer > .container {
     margin-left: unset;
   }
 }
+
+.hidden-sidebar {
+  display: none;
+}
